@@ -1,7 +1,7 @@
 # Typetalkgooglecalendarbot
 A bot for typetalk to send reminders about events in your google calendar
 
-# Fucntions
+# Functions
 It has 3 main functions:
 1. It will remind you at your chosen time of your schedule that day. This does not include events in the calendar you said "no" to. 
 2. It will let you know if someone creates a double booking in your calendar during the next 30 days (real-time). 

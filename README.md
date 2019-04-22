@@ -24,3 +24,4 @@ Set the following 3 triggers:
 2. alertUser time based. Set as time driven, every 5 minutes. This will remind you when you have events starting.
 3. checkDoubleBookings . Set this trigger to execute whenever your google calendar is updated. 
  
+Note: If you are outside of Japan, you will need to set your timezone on line 16. 

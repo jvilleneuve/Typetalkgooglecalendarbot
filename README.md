@@ -9,7 +9,7 @@ It has 3 main functions:
 
 # Install
 Create a new google apps script and copy the code. 
-At the top of each function, setup the nesseccary values.
+At the top of each function, setup the necessary values.
 
 First, create a new bot in typetalk and in the code's postToTypetalk function, set your Typetalk URL and your Typetalk token accociated with the topic you want the bot to post to. After, in the 3 places, set:
 - calendarId = your google calendar email address.

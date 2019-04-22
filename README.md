@@ -12,8 +12,8 @@ Create a new google apps script and copy the code.
 At the top of each function, setup the nesseccary values.
 
 First, create a new bot in typetalk and in the code's postToTypetalk function, set your Typetalk URL and your Typetalk token accociated with the topic you want the bot to post to. After, set:
-a. calendarId = your google calendar email address.
-b. output = your message to be alerted by in typetalk
+- calendarId = your google calendar email address.
+- output = your message to be alerted by in typetalk
 in each function below. 
 
 Next, go to Resources => advanced google services and turn on the Calendar API.

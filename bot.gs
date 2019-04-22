@@ -219,7 +219,7 @@ function alertUser() {
         if (typeof attendees !== 'undefined'){
           
           for (count=0; count< attendees.length; count++) {
-            if (attendees[count].email=="hashimoto@nulab.co.jp" && attendees[count].responseStatus !=="declined"){
+            if (attendees[count].email==calendarId && attendees[count].responseStatus !=="declined"){
               
               goingToEvents.push(event);
               

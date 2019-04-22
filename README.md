@@ -1,5 +1,5 @@
 # Typetalkgooglecalendarbot
-A bot for typetalk to send reminders about events in your google calendar
+A bot for typetalk to send reminders about events and warnings of double bookings in your google calendar
 
 # Functions
 It has 3 main functions:
